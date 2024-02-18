@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مطعم فواكه البحر</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>مطعم فواكه البحر</h1>
+        <nav>
+            <ul>
+                <li><a href="#">القائمة</a></li>
+                <li><a href="#">عن المطعم</a></li>
+                <li><a href="#">اتصل بنا</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="menu">
+        <h2>قائمة الطعام</h2>
+        <ul>
+            <li>سلطة السيزر بالسلمون</li>
+            <li>سلطة البحر الأبيض المتوسط</li>
+            <li>سمك السلمون المشوي</li>
+            <li>سمك القد المقلي</li>
+        </ul>
+    </section>
+    <section id="about">
+        <h2>عن المطعم</h2>
+        <p>مطعم فواكه البحر يقدم لزبائنه أشهى وأطيب الأطباق البحرية المتنوعة بأسعار مميزة وجودة عالية.</p>
+    </section>
+    <footer>
+        <p>جميع الحقوق محفوظة &copy; 2024 مطعم فواكه البحر</p>
+    </footer>
+</body>
+</html>
